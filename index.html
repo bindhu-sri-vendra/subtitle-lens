@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Subtitle Lens</title>
+
+  <!-- Loads the Inter font from Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <!-- Our own styling file -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="page">
+
+    <header>
+      <h1>Subtitle Lens</h1>
+      <p class="intro">Paste a YouTube link to read its Korean subtitles in English.</p>
+    </header>
+
+    <!-- The input box and button -->
+    <form id="url-form" class="url-form">
+      <input
+        id="url-input"
+        type="text"
+        placeholder="https://www.youtube.com/watch?v=..."
+        autocomplete="off"
+        aria-label="YouTube link"
+      >
+      <button type="submit">Translate</button>
+    </form>
+
+    <!-- Friendly messages (like errors) show up here -->
+    <p id="message" class="message" role="alert"></p>
+
+    <!-- The video and the subtitle line. Hidden until a link is submitted -->
+    <section id="player-section" class="player-section hidden">
+      <div class="video-frame">
+        <div id="player"></div>
+      </div>
+      <!-- Empty for now. In a later step, English subtitles appear here -->
+      <p id="subtitle" class="subtitle"></p>
+    </section>
+
+  </main>
+
+  <!-- Our JavaScript file (the "brain" of the page) -->
+  <script src="app.js"></script>
+</body>
+</html>
