@@ -8,7 +8,7 @@ const subtitleEl = document.getElementById("subtitle");
 let player = null;        // the YouTube player (created later)
 let subtitles = [];       // the list of {start, end, korean, english}
 let currentIndex = -2;    // which subtitle is on screen (-1 = none, -2 = nothing yet)
-const SUBTITLE_OFFSET = 0.5;   // show subtitles this many seconds earlier
+const SUBTITLE_OFFSET = -0.8;   // show subtitles this many seconds earlier
 
 // ---------- Find the video ID inside a YouTube link ----------
 function extractVideoId(link) {
