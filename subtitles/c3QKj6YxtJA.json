@@ -1,0 +1,902 @@
+[
+  {
+    "start": 6.0,
+    "end": 8.0,
+    "korean": "아침 8시1 30분",
+    "english": "It's 8:01 in the morning."
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "korean": "날은 춤고 이불은 따뜻해서 게으름 피우고 있어요.",
+    "english": "The day is dancing and the fire is hot and lazy."
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "korean": "이젠 진짜 출근 준비름 해야하니 일어나물게요",
+    "english": "I've got to get ready for real work, so I'm gonna get up."
+  },
+  {
+    "start": 13.0,
+    "end": 16.5,
+    "korean": "제가 무드등올 좋아해서 흉메 언니가 없으면 형광등 대신 이 전조등올 키고 살아요.",
+    "english": "I like mud lamp oil, so without my sister, I'm going to live with this light bulb instead of a fluorescent lamp."
+  },
+  {
+    "start": 23.5,
+    "end": 26.0,
+    "korean": "저논 10시I예요. 심지어 건물도 기숙사랑 제일 가까위서 출근 시간이 8분이에요.",
+    "english": "It's 10 o'clock in the morning, and it's eight minutes from the nearest apartment building."
+  },
+  {
+    "start": 26.0,
+    "end": 27.5,
+    "korean": "기숙사 최고",
+    "english": "The best in the dorm."
+  },
+  {
+    "start": 28.0,
+    "end": 31.0,
+    "korean": "아침에 일어나면 제일 먼저 침구 정리부터 해줍나다.",
+    "english": "When I wake up in the morning, the first thing I do is clean my bed."
+  },
+  {
+    "start": 31.0,
+    "end": 34.0,
+    "korean": "혼자 쓰는 방이면 올라도 흉메가 있어서 최대한 민페 안 끼치게 깨끗하게 살려고 하고 있어요.",
+    "english": "I'm in my own room, and I'm trying to be as clean as I can, and I'm trying not to get into the minfe as much as I can."
+  },
+  {
+    "start": 38.0,
+    "end": 42.0,
+    "korean": "침대는 그냥 싱글 사이즈 정도? 키가 엄청 근 저한데 딱 맞는 사이즈예요.",
+    "english": "It's just a single-sized bed? It's so small, it's just the right size."
+  },
+  {
+    "start": 42.0,
+    "end": 45.0,
+    "korean": "전에 이하우스도 살아방는데 침대는 다 똑같은 것 같아요",
+    "english": "I think the beds are the same."
+  },
+  {
+    "start": 45.0,
+    "end": 46.5,
+    "korean": "저논 좋아요",
+    "english": "I like that."
+  },
+  {
+    "start": 54.0,
+    "end": 57.0,
+    "korean": "great 햇빛이 둘 다 알림없이 일어나기에도 언니가 준비하기에도 적당히 들어오더라고요.",
+    "english": "And the great sunshine came in just in time for her to get ready."
+  },
+  {
+    "start": 64.0,
+    "end": 66.0,
+    "korean": "great JoAT 언니보다 여유로운 제가 아침에 일어나면 방 환기름 시키고 있어요.",
+    "english": "I'm more relaxed than my great JoAT sister and I wake up in the morning and I'm airing my room."
+  },
+  {
+    "start": 66.0,
+    "end": 68.0,
+    "korean": "great 1월이라 차지만 그만큼 상쾌한 아침 공기!",
+    "english": "It's great January, but it's so fresh morning air!"
+  },
+  {
+    "start": 73.0,
+    "end": 76.0,
+    "korean": "여기논 한우리집 A동 (101동) 짝수번 방입나다.",
+    "english": "Here, we have a pair of A's (101nds) entries."
+  },
+  {
+    "start": 83.0,
+    "end": 89.0,
+    "korean": "평화로운 아침이군요",
+    "english": "It's a peaceful morning."
+  },
+  {
+    "start": 100.0,
+    "end": 102.0,
+    "korean": "일단 양치 좀 하고 올게요.",
+    "english": "I'll get you some shepherding."
+  },
+  {
+    "start": 105.5,
+    "end": 109.0,
+    "korean": "마스크도 잊지 않기!",
+    "english": "Don't forget the mask!"
+  },
+  {
+    "start": 113.0,
+    "end": 115.0,
+    "korean": "화장실은 공용이라 밖으로 나가야 해요.",
+    "english": "The bathroom is public, so we need to get out."
+  },
+  {
+    "start": 115.0,
+    "end": 119.0,
+    "korean": "제 방음 화장실이량 사워실 바로 앞이라 편해서 너무 좋아요.",
+    "english": "My bathroom is right in front of you, so it's very convenient."
+  },
+  {
+    "start": 123.0,
+    "end": 127.0,
+    "korean": "왼쪽이 사위실, 오른쪽이 화장실입나다.",
+    "english": "Left is the bathroom, right is the bathroom."
+  },
+  {
+    "start": 128.0,
+    "end": 132.0,
+    "korean": "어우 추위",
+    "english": "It's cold."
+  },
+  {
+    "start": 134.0,
+    "end": 139.0,
+    "korean": "얼른 들어갑시다.",
+    "english": "Let's hear it."
+  },
+  {
+    "start": 152.0,
+    "end": 154.0,
+    "korean": "너무 추위.",
+    "english": "It's too cold."
+  },
+  {
+    "start": 155.5,
+    "end": 157.0,
+    "korean": "빨리 옷부터 갈아입들게요.",
+    "english": "I'll change my clothes soon."
+  },
+  {
+    "start": 158.0,
+    "end": 162.0,
+    "korean": "문 쪽에 옷장이 있긴 하지만 요즘 날이 너무 추위서 웃들올 보일러에 데위서 입으려고 이렇게 침대 아래 쪽 서립에 보관하고 있어요",
+    "english": "There's a closet by the door, but these days, it's so cold, I keep it in the dressing room under the bed like this, trying to put it in the dressing room."
+  },
+  {
+    "start": 162.0,
+    "end": 165.0,
+    "korean": "오늘도 영하 8도까지 내려가니 기모 입어야지",
+    "english": "I'm going down to 8 a.m. today, so I'm going to have to wear a suit."
+  },
+  {
+    "start": 166.0,
+    "end": 169.0,
+    "korean": "양말도 극세사로 신어줄거예요.",
+    "english": "And I'm going to make you an extrovert, too."
+  },
+  {
+    "start": 172.0,
+    "end": 176.0,
+    "korean": "옷 갈아입기 전에 창문 닫는 거 잊지 말기.",
+    "english": "Don't forget to close the window before you change."
+  },
+  {
+    "start": 182.0,
+    "end": 185.0,
+    "korean": "딱히 말 안 하기도 햇고 다시 커튼 *거튼요.",
+    "english": "I don't even know what I'm talking about, but it's curtains."
+  },
+  {
+    "start": 190.0,
+    "end": 192.5,
+    "korean": "우선 나갈 준비름 후루록 해붙시다.",
+    "english": "Let's get ready to go first."
+  },
+  {
+    "start": 200.5,
+    "end": 203.0,
+    "korean": "방학동안 짧계 한 10주 정도만 사능 거라서 짐이 간소한데",
+    "english": "I was only able to work for 10 weeks during the school year, so I didn't have a lot of luggage."
+  },
+  {
+    "start": 203.0,
+    "end": 207.0,
+    "korean": "책상 한 번 구경해보실래요?",
+    "english": "Would you like to take a look at the desk?"
+  },
+  {
+    "start": 207.0,
+    "end": 210.0,
+    "korean": "우선 책상 위에는 노트북, 티수, 물티수, 책 물병 등이 있어요.",
+    "english": "First of all, there's a laptop on the table, a tissue, a water bottle, a book bottle."
+  },
+  {
+    "start": 221.5,
+    "end": 223.0,
+    "korean": "여기능 거울이 있어서 기초화장품들 넣어뒷어요.",
+    "english": "There's a mirror right here, and I'm gonna put the basics in the back."
+  },
+  {
+    "start": 232.0,
+    "end": 234.0,
+    "korean": "마스크",
+    "english": "The mask."
+  },
+  {
+    "start": 234.0,
+    "end": 235.0,
+    "korean": "화장품",
+    "english": "Cosmetics"
+  },
+  {
+    "start": 235.0,
+    "end": 239.0,
+    "korean": "약세서리, 간식, 커피 맥스",
+    "english": "Drugs, snacks, coffee, Max."
+  },
+  {
+    "start": 239.0,
+    "end": 241.0,
+    "korean": "에어되 프로 2세대 박스는 그냥 자리가 없어서 대충.",
+    "english": "There's no room for the second-generation Airline Pro."
+  },
+  {
+    "start": 243.0,
+    "end": 245.0,
+    "korean": "이건 친구가 뜨개질로 떠 준 코스터",
+    "english": "This is a coaster my friend gave me."
+  },
+  {
+    "start": 245.0,
+    "end": 247.0,
+    "korean": "이 정도:",
+    "english": "This is it:"
+  },
+  {
+    "start": 249.0,
+    "end": 251.0,
+    "korean": "여긴 좀 창고같이 쓰고 있어요.",
+    "english": "I'm using it as a warehouse."
+  },
+  {
+    "start": 259.5,
+    "end": 263.0,
+    "korean": "여긴 제 먹거리 칸이에요",
+    "english": "This is my food can."
+  },
+  {
+    "start": 267.0,
+    "end": 268.0,
+    "korean": "그나마 짓는 건 최근에 도비 선배한데 선물 받은 전병.",
+    "english": "It's a gift from a recent robbery soldier."
+  },
+  {
+    "start": 268.0,
+    "end": 270.0,
+    "korean": "갑자기 눈에 보이니 배고파적어요.",
+    "english": "Suddenly you're starving."
+  },
+  {
+    "start": 271.0,
+    "end": 274.0,
+    "korean": "딱 한 개만 먹고 가려고 하늘데 안 뜯기네요.",
+    "english": "I don't want to eat just one, but I don't want to tear it up."
+  },
+  {
+    "start": 274.0,
+    "end": 277.0,
+    "korean": "기숙사 들어올 때 꼭 가위, 커터칼 챙겨주세요. 다들 잘 하시것지만.",
+    "english": "When you get to the dorm, you've got to get your furniture and your cutlery, but you'll be fine."
+  },
+  {
+    "start": 278.0,
+    "end": 280.0,
+    "korean": "아오오욕",
+    "english": "Oh, my God."
+  },
+  {
+    "start": 281.0,
+    "end": 284.0,
+    "korean": "전병 먹기 힘들다.",
+    "english": "It's hard to eat troops."
+  },
+  {
+    "start": 291.0,
+    "end": 296.0,
+    "korean": "머리카락도 그렇고 이런 부스러기능 바로바로 치우고 있어요",
+    "english": "It's just like hair, and I'm just removing this piece of crap right now."
+  },
+  {
+    "start": 298.0,
+    "end": 302.0,
+    "korean": "돌돌이가 진짜 편하고 깔끔하고 괜찮은 것 같아요. 기숙사 추천템 중 하나입나다.",
+    "english": "I think it's really comfortable, neat, and nice, and it's one of the recommended accommodation templates."
+  },
+  {
+    "start": 302.5,
+    "end": 308.0,
+    "korean": "내친 김에 책상도 한 번 쓸어중게요",
+    "english": "I'm going to use my friend Kim's desk once."
+  },
+  {
+    "start": 310.0,
+    "end": 312.0,
+    "korean": "맨 위 칸도 별 거 없어요.",
+    "english": "There's no star at the top."
+  },
+  {
+    "start": 312.0,
+    "end": 316.0,
+    "korean": "공책, 떡메모지, 번드 상비약 등등",
+    "english": "It's like, \"Please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please, please,"
+  },
+  {
+    "start": 316.0,
+    "end": 318.0,
+    "korean": "지갑이량 치약은 매일 들고 나가서 손에 잘 당게 뒷고요.",
+    "english": "I've got a wallet full of toothpastes every day, and I'm going out to get my hands on them."
+  },
+  {
+    "start": 321.0,
+    "end": 326.0,
+    "korean": "마지막으로 이 칸에는 새 수건들올 보관하고 있어요.",
+    "english": "And lastly, I'm keeping new handkerchiefs in this room."
+  },
+  {
+    "start": 327.0,
+    "end": 330.0,
+    "korean": "빨래바구니는 부끄러우니 옷장에 넣어뒷어요.",
+    "english": "I'm ashamed of my laundry bag and I put it in the back of my closet."
+  },
+  {
+    "start": 330.0,
+    "end": 334.0,
+    "korean": "안에 공간이 진짜 넓은데 제 외출복이량 사워바구니 등등 뭐가 많아서 비밀입니다.",
+    "english": "There's a lot of space inside, but it's a secret because I've got a lot of outerwear, shopping bags, stuff like that."
+  },
+  {
+    "start": 334.0,
+    "end": 338.0,
+    "korean": "여기가 그 옷장이에요.",
+    "english": "This is the closet."
+  },
+  {
+    "start": 341.0,
+    "end": 343.0,
+    "korean": "(빨래 놓는 중)",
+    "english": "(Sighs)"
+  },
+  {
+    "start": 348.0,
+    "end": 349.0,
+    "korean": "아직도 시간이 남앗으니 쓰레기통도 비우고 출근합시다.",
+    "english": "We still have time, so let's clear the trash can and go to work."
+  },
+  {
+    "start": 349.0,
+    "end": 350.5,
+    "korean": "이게 제 쓰레기통이에요",
+    "english": "This is my garbage can."
+  },
+  {
+    "start": 351.5,
+    "end": 354.5,
+    "korean": "얘도 챙겨가고요",
+    "english": "She's taking care of it too."
+  },
+  {
+    "start": 356.0,
+    "end": 357.0,
+    "korean": "가능 김에 텅들러도 한 번 셋고 갈게요.",
+    "english": "I'm going to go empty-handed to Kim. I'm going to go empty-handed three times."
+  },
+  {
+    "start": 376.0,
+    "end": 380.0,
+    "korean": "밥도 먹고 설거지도 하고 방에서 나오는 쓰레기도 버리는 그런 긋이에요",
+    "english": "It's like eating and washing and throwing out the garbage."
+  },
+  {
+    "start": 380.0,
+    "end": 381.5,
+    "korean": "해우소",
+    "english": "Let's do this."
+  },
+  {
+    "start": 381.5,
+    "end": 382.5,
+    "korean": "사워실 해우소",
+    "english": "You're going to eat it."
+  },
+  {
+    "start": 384.0,
+    "end": 387.0,
+    "korean": "먼저 쓰레기통들 비워줍니다.",
+    "english": "First, they empty the trash cans."
+  },
+  {
+    "start": 387.0,
+    "end": 391.0,
+    "korean": "여기다 그냥 다 버려주면 돼요.",
+    "english": "You can just leave it here."
+  },
+  {
+    "start": 396.0,
+    "end": 400.0,
+    "korean": "이제 설거지름 해붙시다.",
+    "english": "Now let's get some laundry."
+  },
+  {
+    "start": 401.0,
+    "end": 404.0,
+    "korean": "수세미량 세제도 다 공용이에요.",
+    "english": "They're all publicly available."
+  },
+  {
+    "start": 404.0,
+    "end": 405.5,
+    "korean": "어차피 주말에는 집에 가서 제대로 닦울거라 입 대는 곳 위주로 가볍게 닦고 있어요.",
+    "english": "Anyway, on the weekends, I'm going home and I'm doing a little cleaning, and I'm going to get dressed up."
+  },
+  {
+    "start": 411.0,
+    "end": 420.0,
+    "korean": "다시 방으로 고고",
+    "english": "Put him back in his room."
+  },
+  {
+    "start": 427.5,
+    "end": 430.0,
+    "korean": "제가 쓰레기통들 두는 자리는 여기입니다",
+    "english": "This is where I put the trash cans."
+  },
+  {
+    "start": 439.0,
+    "end": 441.5,
+    "korean": "개인적으로 기숙사 난방이 세다고 생각해서 대충 15도 좀으로 하면 딱 중은 것 같아요.",
+    "english": "Personally, I think it's hard to measure the heating in the dorm, so I think it's a little over 15 degrees."
+  },
+  {
+    "start": 441.5,
+    "end": 444.0,
+    "korean": "너무 세면 너무 건조하고 또 뜨겁더라고요. 15도로 해도 25도 같아요.",
+    "english": "It's too hot, too dry, and 15 degrees is like 25 degrees."
+  },
+  {
+    "start": 444.0,
+    "end": 448.0,
+    "korean": "이제 나가게",
+    "english": "Let's get out of here."
+  },
+  {
+    "start": 449.0,
+    "end": 452.0,
+    "korean": "가슴기도 끄고요.",
+    "english": "I turn off my chest."
+  },
+  {
+    "start": 453.5,
+    "end": 455.0,
+    "korean": "제 영혼의 단짝 에어파은 챙기고",
+    "english": "Take my soul's little airsaws."
+  },
+  {
+    "start": 457.0,
+    "end": 458.5,
+    "korean": "충전기 이 틈에 끼우면 안 빠지고 딱 좋아요. 꿀럽 아년 꿀립입나다",
+    "english": "It's okay if you don't put the charger in the gap."
+  },
+  {
+    "start": 462.0,
+    "end": 466.0,
+    "korean": "다 챙기고 이제 출근해롭시다.",
+    "english": "We're ready to go to work."
+  },
+  {
+    "start": 471.0,
+    "end": 473.0,
+    "korean": "저 후리스는 꺼입들 때 딱 좋아요",
+    "english": "That guy's really good when he's out."
+  },
+  {
+    "start": 480.0,
+    "end": 483.0,
+    "korean": "학생증이 있어야 기숙사도; 교내 건물들도 들어칼 수 있으니 잊지 말고 챙겨쥐야 해요.",
+    "english": "You've got to have a student visa, you've got to have a dormitory, you've got to have a school building, so don't forget to take care of it."
+  },
+  {
+    "start": 492.0,
+    "end": 494.0,
+    "korean": "이제 9시I 40분이라 출근하러 갈게요.",
+    "english": "It's 9:40 a.m. and I'm on my way to work."
+  },
+  {
+    "start": 494.5,
+    "end": 496.0,
+    "korean": "기숙사의 장점. 출근하는 데에 8분밖에 걸리지 않듣다.",
+    "english": "It only takes eight minutes to get to work."
+  },
+  {
+    "start": 497.0,
+    "end": 500.0,
+    "korean": "작년엔 통학 왕복 3시간 하느라 너무 힘들엇거든요.",
+    "english": "Last year, it was so hard to do a three-hour curriculum shift."
+  },
+  {
+    "start": 500.5,
+    "end": 508.0,
+    "korean": "지금 자잘하게 신경 쓰는게 더 많울지언정 기숙사 생활이 훨씬 편하고 좋아요.",
+    "english": "I'm going to be more concerned about being modest now, and I'm going to be much more comfortable and comfortable in the dorm."
+  },
+  {
+    "start": 509.0,
+    "end": 510.0,
+    "korean": "61 출입문은 1종입나다.",
+    "english": "61 entrances are type 1 entrances."
+  },
+  {
+    "start": 517.0,
+    "end": 523.0,
+    "korean": "먼저 여기논 학생증 찍어야 나갈 수 있어요. 사생만 출입 가능합나다.",
+    "english": "You can get out of here if you have a student ID. You can only get in alive."
+  },
+  {
+    "start": 529.0,
+    "end": 534.0,
+    "korean": "여기도 학생증 찍어야 나갈 수 있어요. 역시 사생만 출입 가능합나다.",
+    "english": "You can get out of here if you have a student ID, but you can only get in alive."
+  },
+  {
+    "start": 536.0,
+    "end": 539.0,
+    "korean": "상쾌한 아침 공기'",
+    "english": "It's a fresh morning air\"."
+  },
+  {
+    "start": 540.0,
+    "end": 541.0,
+    "korean": "Wouw 기숙사가 종류가 망조? WAW",
+    "english": "What kind of Wouw dwelling is ruined?"
+  },
+  {
+    "start": 541.5,
+    "end": 543.0,
+    "korean": "Hanwoori 정문 쪽에 |-HOUSE 하나 더 있어요 가여자대학교 House",
+    "english": "There's another house at Hanwoori Gate."
+  },
+  {
+    "start": 543.0,
+    "end": 546.0,
+    "korean": "우리 학교가 인서물 상위권 대학 내에서 재학생 대비 기숙사 수용 인원이",
+    "english": "Our school has a hostel for freshmen within the top-ranked human resources university."
+  },
+  {
+    "start": 549.0,
+    "end": 551.0,
+    "korean": "지금 제 뒤 쪽이 솟울관이량 한우리집이에요.",
+    "english": "It's just my house right behind me."
+  },
+  {
+    "start": 551.0,
+    "end": 553.0,
+    "korean": "솟울관은 잘 모르는데 아마 고시나 비슷한거 준비하는 빗들 대상이라고 들없어요.",
+    "english": "I don't know much about the sprinkler, but I don't think it's a rainbow object that's preparing something like that."
+  },
+  {
+    "start": 553.0,
+    "end": 556.0,
+    "korean": "이건 '엘베타위'라고 부르는데 기숙사에서 서들 타러 나가려면 일단 올라가야 하거튼요",
+    "english": "It's called Elbetawy, and if you want to get out of the dorm, you have to go upstairs."
+  },
+  {
+    "start": 556.0,
+    "end": 558.0,
+    "korean": "오로지 그 용도의 엘리베이터라서 2층 밖에 없어요",
+    "english": "It's just an elevator. It's only on the second floor."
+  },
+  {
+    "start": 565.0,
+    "end": 566.0,
+    "korean": "소소하고 암북적인 배려 너무 따수위",
+    "english": "It's too small, too ammunition-filled."
+  },
+  {
+    "start": 569.0,
+    "end": 576.0,
+    "korean": "아까 들어온 문이 뒷문, 제가 보고 잇는 쪽이 앞문이에요.",
+    "english": "The front door is the back door, the one I'm looking at is the front door."
+  },
+  {
+    "start": 577.0,
+    "end": 578.0,
+    "korean": "UV DISINFECTION Tovchfale 코로나19 여방운 위하여 기기어 손여지 마서요시",
+    "english": "UV DISINFECTION Tovchfale device for the coronavirus 19."
+  },
+  {
+    "start": 581.0,
+    "end": 582.0,
+    "korean": "생각보다 많이 올라오고 오래 결길 거예요.",
+    "english": "It's going to go up farther than I thought it would, and it's going to go on for a long time."
+  },
+  {
+    "start": 582.0,
+    "end": 584.5,
+    "korean": "당연한 얘기지만 여기도 외부인 출입 금지입니다 X",
+    "english": "It's a natural thing to do, but we've got an outsider's ban here, too."
+  },
+  {
+    "start": 585.0,
+    "end": 587.0,
+    "korean": "저 왼쪽으로 가면 이하우스가 나와요.",
+    "english": "If you go to the left, you'll see the bottom."
+  },
+  {
+    "start": 587.5,
+    "end": 588.5,
+    "korean": "1학년 겨울 방학 때 살아방는데 진짜 리조트같고 엄청 좋아요.",
+    "english": "It's like a real resort to live in during the first-year winter break, and I love it."
+  },
+  {
+    "start": 593.0,
+    "end": 597.0,
+    "korean": "저기능 남산타워라서 기숙사 잘 걸리면 볶가 대박이래요",
+    "english": "It's the South Tower over there, so if the dorm goes well, it'll be a big hit."
+  },
+  {
+    "start": 602.0,
+    "end": 605.0,
+    "korean": "5분도 안 걸을결요?",
+    "english": "You can't walk for five minutes?"
+  },
+  {
+    "start": 605.0,
+    "end": 609.0,
+    "korean": "그저 가파른 경사만 조심해서 가면 대요",
+    "english": "Just watch out for the sharp edge."
+  },
+  {
+    "start": 609.5,
+    "end": 611.0,
+    "korean": "벌써 건물이 보여요",
+    "english": "I can already see the building."
+  },
+  {
+    "start": 617.0,
+    "end": 620.0,
+    "korean": "여긴 종합과학관 D동 5충이에요",
+    "english": "This is D Street 5 of the Faculty of Comprehensive Sciences."
+  },
+  {
+    "start": 620.0,
+    "end": 623.0,
+    "korean": "D동-현대자동차동",
+    "english": "D east-modern car drive"
+  },
+  {
+    "start": 629.0,
+    "end": 636.0,
+    "korean": "여기능 4층 출입문 앞인데 한 번 둘러보면 이런 모습이에요.",
+    "english": "It's in front of the entrance on the fourth floor, and if you look around, it looks like this."
+  },
+  {
+    "start": 639.0,
+    "end": 645.0,
+    "korean": "이 안에서도 또 이동하긴 하켓지만 일단 도착햇습나다",
+    "english": "We're moving in here again, Hackett, but once we get there, we're on our way."
+  },
+  {
+    "start": 645.0,
+    "end": 648.5,
+    "korean": "10분 일찍 도착햇는데 6시에 퇴근이에요.",
+    "english": "I got there 10 minutes early, and I'm off at 6:00."
+  },
+  {
+    "start": 660.0,
+    "end": 664.0,
+    "korean": "저녁에 보는 기숙사는 또 느낌이 다르네요",
+    "english": "It's a different feeling to have in the dorm for dinner."
+  },
+  {
+    "start": 664.0,
+    "end": 669.0,
+    "korean": "졸업 전에 이하우스 한 번 더 살고심은 미련",
+    "english": "It's crazy to live one more time before graduation."
+  },
+  {
+    "start": 677.0,
+    "end": 682.0,
+    "korean": "지금은 바로 방으로 가지 않울 거예요.",
+    "english": "I'm not going to the room right now."
+  },
+  {
+    "start": 682.5,
+    "end": 685.0,
+    "korean": "택배 하나만 찾고 밥도 먹고 들어갈 거예요",
+    "english": "I'm just gonna find a cab and go in and eat."
+  },
+  {
+    "start": 692.0,
+    "end": 696.0,
+    "korean": "이제 기숙사 식당으로 갈게요.",
+    "english": "Now I'm going to the dorm restaurant."
+  },
+  {
+    "start": 696.0,
+    "end": 700.0,
+    "korean": "지하 1증에 있어요",
+    "english": "It's in the basement one."
+  },
+  {
+    "start": 707.0,
+    "end": 710.0,
+    "korean": "일단 식권올 하나 사켓습나다.",
+    "english": "I'm going to have to put on a dietary oil jacket."
+  },
+  {
+    "start": 713.5,
+    "end": 715.0,
+    "korean": "결제가 완료되기 전에 카드록 빼지 말아주세요 가격은 저럼한데 컬리되는 나쁘지 않아서 애용하고 있어요.",
+    "english": "Please don't remove the card before the payment is complete, because the price is too high, but it's not bad to curl."
+  },
+  {
+    "start": 715.0,
+    "end": 720.0,
+    "korean": "매번 밥울 사먹으려니 돈이 너무 많이 나가더라고요.",
+    "english": "Every time I tried to buy a bowl, I spent too much money."
+  },
+  {
+    "start": 722.0,
+    "end": 723.0,
+    "korean": "가드",
+    "english": "The guard."
+  },
+  {
+    "start": 723.5,
+    "end": 724.5,
+    "korean": "o 가드",
+    "english": "Oh, my God."
+  },
+  {
+    "start": 726.0,
+    "end": 729.0,
+    "korean": "식권 꼭 챙겨서 가야해요!",
+    "english": "We need to get our food stamps and get out of here!"
+  },
+  {
+    "start": 729.5,
+    "end": 732.0,
+    "korean": "그냥 영수증처럼 생격어요.",
+    "english": "It's just like a receipt."
+  },
+  {
+    "start": 732.0,
+    "end": 735.0,
+    "korean": "오늘도 맛있는 저녁이없어요",
+    "english": "I'm not having a delicious dinner tonight."
+  },
+  {
+    "start": 735.0,
+    "end": 741.0,
+    "korean": "이쪽 게이트로 들어가서 엘리베이터 타고 한 번에 방으로 갈게요",
+    "english": "I'll go through this gate and take the elevator to my room."
+  },
+  {
+    "start": 745.0,
+    "end": 748.0,
+    "korean": "참고로 지하 1층 시설들은 이렇습니다.",
+    "english": "So, by the way, the ground floor facilities are like this."
+  },
+  {
+    "start": 748.0,
+    "end": 750.0,
+    "korean": "저쪽에 다 있어요",
+    "english": "It's all over there."
+  },
+  {
+    "start": 752.0,
+    "end": 756.0,
+    "korean": "하지만 전 엘리베이터 타고 올라갈겁니다.",
+    "english": "But I'm going up in the elevator."
+  },
+  {
+    "start": 763.0,
+    "end": 767.0,
+    "korean": "양치도 하고 옷도 갈아입고 실내용 운동화도 챙겨서 다시 나앉어요.",
+    "english": "I'm going to get some shepherding, some clothes, some indoor sneakers, and I'm going to sit down."
+  },
+  {
+    "start": 767.0,
+    "end": 770.0,
+    "korean": "첫 브이로그에서 나노 시험 끝나고 같이 눈사람 구경햇던 그 동기가 선물로 준 신발주머니",
+    "english": "After the first Bygot nano exam, the motivation that made me look like a snowman gave me a shoe bag as a gift."
+  },
+  {
+    "start": 770.0,
+    "end": 773.0,
+    "korean": "예쁘조? 자랑 중이에요.",
+    "english": "I'm proud of you."
+  },
+  {
+    "start": 774.0,
+    "end": 778.0,
+    "korean": "방학 동안만 ECC 헬스장에 등록해서 퇴근하면 1시간 반 정도 운동하고 있어요",
+    "english": "If you're on leave, you're in the ECC, and you're out of work, and you're working out for an hour and a half."
+  },
+  {
+    "start": 778.0,
+    "end": 782.0,
+    "korean": "정문까지 가야해서 항상 서들다고 내려가늘데 갑자기 눈이 오네요",
+    "english": "I go to the gate and I always get up and down, and suddenly it's snowing."
+  },
+  {
+    "start": 782.0,
+    "end": 785.0,
+    "korean": "감성있다",
+    "english": "It's emotional."
+  },
+  {
+    "start": 790.0,
+    "end": 793.0,
+    "korean": "9시까지 운영하는데 지금 7시니까 마감시간까지 운동할게요.",
+    "english": "I'm going to work until 9:00 and I'm going to work until 7:00."
+  },
+  {
+    "start": 793.0,
+    "end": 797.0,
+    "korean": "운동 끝!",
+    "english": "It's over!"
+  },
+  {
+    "start": 799.0,
+    "end": 800.5,
+    "korean": "올라걀 때도 무조건 서름다고 올라기요.",
+    "english": "And when it's egg-laying, it's always going up."
+  },
+  {
+    "start": 802.0,
+    "end": 805.0,
+    "korean": "걸어서 올라가기엔 너무 높고 가파르고 멀어요",
+    "english": "It's too high, too far, too far to walk."
+  },
+  {
+    "start": 806.0,
+    "end": 810.0,
+    "korean": "그새 살짝 쌍인 눈 덕분에 아주 예쁘구만요!",
+    "english": "I'm so beautiful because of my new pair of eyes!"
+  },
+  {
+    "start": 810.0,
+    "end": 812.5,
+    "korean": "하 트",
+    "english": "What's going on?"
+  },
+  {
+    "start": 819.0,
+    "end": 822.0,
+    "korean": "아저씨 저도 태워주세요",
+    "english": "Please burn me too."
+  },
+  {
+    "start": 823.5,
+    "end": 826.0,
+    "korean": "셋고 방도 정리하고 책 하나 들고 침대에 들어가다 하루름 마무리 하는 요즘이에요",
+    "english": "It's just that these days, you clean up your room, you take a book, you go to bed, you finish the day."
+  },
+  {
+    "start": 826.0,
+    "end": 829.0,
+    "korean": "아는 선배한데 생일선물로 받은 책인데 <피로사회-라고 철학 부문이에요.",
+    "english": "It's a book I know, but it's a birthday present, and it's a philosophical discipline called philosophy."
+  },
+  {
+    "start": 829.0,
+    "end": 834.0,
+    "korean": "읽어보고 싶엇는데 마침 선물 받아서 기숙사에 챙겨앉지요.",
+    "english": "I wanted to read it, but I just got a present and put it in my dorm room."
+  },
+  {
+    "start": 836.0,
+    "end": 839.0,
+    "korean": "요즘 12시만 되면 졸립더라고요",
+    "english": "Nowadays, it's only 12 o'clock and I'm asleep."
+  },
+  {
+    "start": 839.0,
+    "end": 843.0,
+    "korean": "내일도 출근해야하니 이만 자불게요.",
+    "english": "I have to go to work tomorrow, so I'll pay for it."
+  }
+]
